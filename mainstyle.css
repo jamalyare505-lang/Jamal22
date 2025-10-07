@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+    
+}
+
+.sectionstyle{
+    float: left;
+    margin-left:5px;
+    width: 70%;
+}
+
+.imgjamal{
+    width: 80%;
+    height: auto;
+}
